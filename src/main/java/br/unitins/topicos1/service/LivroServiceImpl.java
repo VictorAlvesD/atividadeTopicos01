@@ -9,7 +9,6 @@ import br.unitins.topicos1.repository.LivroRepository;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;
-import jakarta.ws.rs.NotFoundException;
 import jakarta.ws.rs.core.Response;
 
 @ApplicationScoped

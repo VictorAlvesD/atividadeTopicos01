@@ -9,4 +9,5 @@ insert into livro (nome, autor, editora, isbn, genero) values('amor impossivel',
 insert into livro (nome, autor, editora, isbn, genero) values('Amor', 'David Parente', 'açgoritmos', '1478511ksks5', 'aventura');
 insert into livro (nome, autor, editora, isbn, genero) values('amor romantico', 'David Parente', 'azgoritmos', '1478500ksks5', 'terror');
 insert into livro (nome, autor, editora, isbn, genero) values('fati', 'David Parente', 'ritmos', '1478599ksks5', 'animação');
-insert into livro (nome, autor, editora, isbn, genero) values('Amor por dela', 'David Parente', 'goritmos', '1478597ksks5', 'terror');
+
+insert into usuario (nome, login, cpf, senha) values('Vitim', 'vitim@gmail.com', '066.788.511-02','terror');
